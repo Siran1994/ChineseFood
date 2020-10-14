@@ -1,0 +1,20 @@
+模拟中餐制作=Chinese snacks
+超棒=great
+干的漂亮=good job
+蒸饺=Steamed dumplings
+春泉=Spring rolls
+炒面=Fried noodles
+元宵=Glutinous rice balls
+幸运饼干=Fortune cookie
+再试一次=try again
+吃点别的=Choose other food
+点击查看=Click to view
+广告=ads
+失败=fail
+太浪费了，没有吃完!=It's too wasteful to finish!
+太棒了=awesome
+味道好极了=It tastes great！
+下一步=next
+再来一份=One more
+美味就要凉了，快...........=Taste the freshest delicious food
+
